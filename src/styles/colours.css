@@ -1,0 +1,62 @@
+
+.black-text-shadow{
+    text-shadow: 2px 2px #000;  
+}
+
+.grey-text-shadow{
+    text-shadow: 2px 2px #aaa;
+}
+
+.black-text{
+    color: black;
+}
+
+.white-text{
+    color: white;
+}
+.green-text{
+    color: #178a27;
+}
+
+.green-button{
+    background-color: #178a27;
+}
+
+.nav-colour{
+    background-color: #383e4c;
+}
+.blue-text{
+    color: #1686c1;
+}
+.blue-button{
+    background-color: #1686c1;
+}
+
+.blue-button-hover-text{
+    color: #23527c;
+}
+
+
+.red-button{
+    background-color: #852406;
+}
+
+.grey-text{
+    color: #666666;
+}
+
+.grey-card{
+    background-color: #f2f2f2;
+}
+
+
+
+
+
+.grey-footer-text{
+    color: #999;    
+}
+
+.grey-scrollUpCircle{
+    background-color: #454545;
+}

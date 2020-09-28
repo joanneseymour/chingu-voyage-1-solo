@@ -1,0 +1,130 @@
+.p27{
+    padding: 27px;
+}
+
+.p30{
+    padding: 30px;
+}
+
+.pLR0{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.pLR15{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.pLR20{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.pLR30{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.pLR235{
+    padding-left: 235px;
+    padding-right: 235px;
+}
+
+.pT0{
+    padding-top: 0px;
+}
+
+.pTB10{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.pTB20{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* .pTB12{
+    padding-top: 12px;
+    padding-bottom: 12px;
+} */
+
+.pT70{
+    padding-top: 70px;
+}
+
+.pB25{
+    padding-bottom: 25px;
+}
+
+.pB35{
+    padding-bottom: 35px;
+}
+
+.pB40{
+    padding-bottom: 40px;
+}
+
+.mAuto{
+    margin: auto;
+}
+
+.m0{
+    margin: 0px;
+}
+
+/* Nav links margin changes depending on browser size: */
+.m10{
+    margin: 10px;
+}
+
+.mT0{
+    margin-top: 0px;
+}
+
+.mT15{
+    margin-top: 15px;
+}
+
+.mTB0{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.mTB16{
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.mT20{
+    margin-top: 20px;
+}
+
+.mT30{
+    margin-top: 30px;
+}
+
+.mB10{
+    margin-bottom: 10px;
+}
+
+.mb30{
+    margin-bottom: 30px;
+}
+
+.mB0{
+    margin-bottom: 0px;
+}
+
+.mB20{
+    margin-bottom: 20px;
+}
+
+.mB30{
+    margin-bottom: 30px;
+}
+
+.width100{
+    width: 100%;
+}
