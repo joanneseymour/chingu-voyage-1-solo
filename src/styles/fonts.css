@@ -1,0 +1,50 @@
+@font-face {
+    font-family: OpenSans-Regular;
+    src: url(../assets/fonts/OpenSans-Regular.ttf);
+  }
+
+p, a, h1, h2, h3, h4, button{
+    font-family: OpenSans-Regular;
+}
+
+h1{
+    font-size: 70px;
+}
+
+h2{
+    font-size: 50px;
+    text-align: center;
+}
+
+h3{
+    font-size: 24px;
+}
+
+h4{
+    font-size: 25px;    
+}
+
+a{
+    font-size: 20px;
+}
+
+.font14{
+  font-size: 14px;
+}
+
+.font18{
+  font-size: 18px;
+}
+
+.font36{
+  font-size: 36px;
+}
+
+
+.text-center{
+  text-align: center;
+}
+
+.text-normal{
+  font-style: normal;
+}

@@ -1,0 +1,54 @@
+nav{
+    display: grid;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    min-height: 50px !important;
+    z-index: 2;
+    justify-content: space-around;
+    align-items: center;
+    justify-items: center;
+    min-height: 8vh;
+}
+
+#navBarLinksContainer{
+   position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    justify-content: center;
+     width: 60%;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+
+}
+
+#navBarLinksContainer > a{
+    display: grid;
+    width: max-content;
+    border: solid #646d7c 1px;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    align-self: center;
+}
+
+#navBarLinksContainer > a:hover{
+    background-color: #49505F;
+}
+
+
+.active{
+    background-color: #49505F;
+}
+
+#navMenuContainer{
+    display: none;
+}
+
+#hamburgerButton{
+    display: none;
+}
+
+i{
+    color: white;
+}
